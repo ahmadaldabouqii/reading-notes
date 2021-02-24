@@ -8,11 +8,10 @@ I **trained** Here in Amman in a private company As Android Developer..
 | The Sections  | Subject       
 | ------------- |:-------------
 | Section 1     | [git-github-markdown](https://ahmadaldabouqii.github.io/reading-notes/git-github)
-| Section 2     | [HTML-CSS](https://ahmadaldabouqii.github.io/reading-notes/HTML-CSS)
+| Read: 06b/03  | [HTML-CSS](https://ahmadaldabouqii.github.io/reading-notes/HTML-CSS)
 | Section 3     | [Growth mindset](https://ahmadaldabouqii.github.io/reading-notes/Growth-Mindset)
 | Section 4     | [A-C-P](https://ahmadaldabouqii.github.io/reading-notes/A-C-P)
-| Section 5     | [Architecture_and_Logic_Of_Computer](https://ahmadaldabouqii.github.io/reading-notes/Computer_Architecture_and_Logic)
-| Section 6     | [Dynamic_web_pages_with_JavaScript](https://ahmadaldabouqii.github.io/reading-notes/Dynamic_web_pages_with_JavaScript)
-| Section 7     | [Programming_with_JavaScript](https://ahmadaldabouqii.github.io/reading-notes/Programming_with_JavaScript)
-| Section 8     | right-aligned
-| Section 9     | right-aligned
+| Read: 04c     | [Dynamic_web_pages_with_JavaScript](https://ahmadaldabouqii.github.io/reading-notes/Dynamic_web_pages_with_JavaScript)
+| Read: 04b     | [Architecture_and_Logic_Of_Computer](https://ahmadaldabouqii.github.io/reading-notes/Computer_Architecture_and_Logic)
+| Read: 04      | [Programming_with_JavaScript](https://ahmadaldabouqii.github.io/reading-notes/Programming_with_JavaScript)
+| Read: 05      | [Operators_and_Loops](https://ahmadaldabouqii.github.io/reading-notes/Operators_and_Loops)
