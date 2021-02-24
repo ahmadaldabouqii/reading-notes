@@ -15,9 +15,6 @@ I **trained** Here in Amman in a private company As Android Developer..
 | Section 6     | right-aligned
 | Section 7     | right-aligned
 | Section 8     | right-aligned
-<<<<<<< HEAD
-| Section 9     | right-aligned
-=======
 | Section 9     | right-aligned
 
 
