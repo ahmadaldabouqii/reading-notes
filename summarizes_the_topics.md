@@ -1,4 +1,3 @@
-
 There's a tool which name is **(Git)**, and this tool allow developer's to collaborate in one project, but each one has a copy but in the end it compiles to one unified copy(it's the same code).
 So such kind of tool this called "Version control systems", this tool allows developer's to work in the same code base(code base is the code itself but this is the term that we use in the industry).
 
