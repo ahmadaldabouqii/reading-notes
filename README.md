@@ -12,7 +12,7 @@ I **trained** Here in Amman in a private company As Android Developer..
 | Section 3     | [Growth mindset](https://ahmadaldabouqii.github.io/reading-notes/Growth-Mindset)
 | Section 4     | [A-C-P](https://ahmadaldabouqii.github.io/reading-notes/A-C-P)
 | Section 5     | [Architecture_and_Logic_Of_Computer](https://ahmadaldabouqii.github.io/reading-notes/Computer_Architecture_and_Logic)
-| Section 6     | right-aligned
+| Section 6     | [Dynamic_web_pages_with_JavaScript](https://ahmadaldabouqii.github.io/reading-notes/Dynamic_web_pages_with_JavaScript)
 | Section 7     | right-aligned
 | Section 8     | right-aligned
 | Section 9     | right-aligned
