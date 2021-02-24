@@ -7,7 +7,7 @@ I **trained** Here in Amman in a private company As Android Developer..
 
 | The Sections  | Subject       
 | ------------- |:-------------
-| Section 1     | [git/github/markdown](https://ahmadaldabouqii.github.io/reading-notes/git-github.md) 
+| Section 1     | [git/github/markdown](https://ahmadaldabouqii.github.io/reading-notes/git-github)
 | Section 2     | right-aligned
 | Section 3     | right-aligned
 | Section 4     | right-aligned
