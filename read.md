@@ -1,4 +1,4 @@
-# Notes About HTML
+# Notes About HTML.
 
 ## HTML
 
