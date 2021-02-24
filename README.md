@@ -7,7 +7,7 @@ I **trained** Here in Amman in a private company As Android Developer..
 
 | The Sections  | Subject       
 | ------------- |:-------------
-| Section 1     | [summarizes_the_topic](https://ahmadaldabouqii.github.io/reading-notes/summarizes_the_topics.md) 
+| Section 1     | [git/github/markdown](https://ahmadaldabouqii.github.io/reading-notes/git-github.md) 
 | Section 2     | right-aligned
 | Section 3     | right-aligned
 | Section 4     | right-aligned
@@ -23,4 +23,3 @@ I **trained** Here in Amman in a private company As Android Developer..
 
 
    
->>>>>>> 71f8e589322e3c3025bc4daa39091d25e47df12b
